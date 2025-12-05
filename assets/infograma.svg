@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <style>
+    .bg{fill:#ff7a59}
+    .navy{fill:#0f2b45}
+    .white{fill:#ffffff}
+    .muted{fill:#10344f}
+    .title{font-family:Arial, Helvetica, sans-serif; font-size:48px; font-weight:700; fill:#ffffff}
+    .h{font-family:Arial; font-size:28px; font-weight:700; fill:#0f2b45}
+    .p{font-family:Arial; font-size:20px; fill:#0f2b45}
+  </style>
+  <rect width="1200" height="1600" class="navy" rx="40"/>
+  <rect x="60" y="120" width="1080" height="280" fill="#ff7a59" rx="20"/>
+  <text x="120" y="220" class="title">TUTORIAL: POLÍTICA DE PRIVACIDADE</text>
+  <g transform="translate(80,440)">
+    <rect width="1040" height="220" rx="16" fill="#ffffff"/>
+    <text x="24" y="48" class="h">Quais dados coletamos</text>
+    <text x="24" y="92" class="p">Nome, e-mail, IP, cookies, métricas de uso e mensagens de contato.</text>
+  </g>
+  <g transform="translate(80,700)">
+    <rect width="1040" height="220" rx="16" fill="#ffffff"/>
+    <text x="24" y="48" class="h">Para que usamos</text>
+    <text x="24" y="92" class="p">Comunicação, personalização, análise e segurança.</text>
+  </g>
+  <g transform="translate(80,960)">
+    <rect width="1040" height="220" rx="16" fill="#ffffff"/>
+    <text x="24" y="48" class="h">Direitos do usuário</text>
+    <text x="24" y="92" class="p">Acesso, retificação, exclusão, portabilidade e limitação.</text>
+  </g>
+  <g transform="translate(80,1220)">
+    <rect width="1040" height="220" rx="16" fill="#ffffff"/>
+    <text x="24" y="48" class="h">Contato técnico</text>
+    <text x="24" y="92" class="p">privacidade@seudominio.ex</text>
+  </g>
+</svg>
